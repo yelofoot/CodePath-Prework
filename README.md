@@ -19,6 +19,19 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 
+Snapchat
+- memories
+- snapchat AI
+- Streaks
+  
+Robinhood
+- mobile investing
+- user interface is simple and easy to comprehend
+  
+reddit
+- minimal screen layout
+- infinite scroll
+  
 
 ## Notes
 
