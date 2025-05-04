@@ -1,13 +1,11 @@
-# CodePath-Prework
-iOS mobile app for codepath prework submission.
+# Prework - ColorChanger
 
-# Prework - *Name of App Here*
+Submitted by: Tyler Austin
 
-Submitted by: **Your Name Here**
+ColorChanger is an app that displays my name, ideal career and allows the user to press a button that changes
+the background of the app
 
-**Name of your app** is an app that... [TODO] 
-
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
@@ -16,17 +14,15 @@ The following **required** functionality is completed:
 - [ ] Users are see a screen with three labels and a button
 - [ ] Tapping the button changes the screen color to a random color
  
-## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+## Video Walkthrough Submission
+(https://www.loom.com/share/5e5cb2ee341847a7961296587af227af?sid=8c3aa0be-7943-4fff-bb7d-8b4f8abe2e35)
 
 ## App Brainstorming (Step 4)
 
+
 ## Notes
 
-Describe any challenges encountered while building the app.
+- the first time i built it, I experienced an issue getting the buttons to make the screen change, it was a bit awkward at first but after messing around with the code a bit I was able to get the app to launch with the desired features.
 
 ## License
 
